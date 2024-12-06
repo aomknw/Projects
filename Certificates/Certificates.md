@@ -2,7 +2,7 @@
 
 ## FutureTech Program
 **Topic:** Cloud Computing Skills  
-![FutureTech Cloud Computing Certificate](Certificates/01.jpg)  
+![FutureTech Cloud Computing Certificate](01.jpg)  
 *Certificate awarded for completing the "Cloud Computing Skills" course under the FutureTech Program on September 8, 2024.*
 
 ---
