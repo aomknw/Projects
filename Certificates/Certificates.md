@@ -2,14 +2,14 @@
 
 ## FutureTech Program
 **Topic:** Cloud Computing Skills  
-![FutureTech Cloud Computing Certificate](IMG_6218.jpeg)  
+![FutureTech Cloud Computing Certificate](01.jpg)  
 *Certificate awarded for completing the "Cloud Computing Skills" course under the FutureTech Program on September 8, 2024.*
 
 ---
 
 ## FutureTech Program
 **Topic:** Web Application Design Skills  
-![FutureTech Web Design Certificate](IMG_6219.jpeg)  
+![FutureTech Web Design Certificate](02.jpg)  
 *Certificate awarded for completing the "Web Application Design Skills" course under the FutureTech Program on September 15, 2024.*
 
 ---
